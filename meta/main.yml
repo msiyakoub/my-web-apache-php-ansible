@@ -3,7 +3,7 @@ galaxy_info:
   description: install apache and php with a test web app
   company: ""
 
-   license: MIT
+  license: MIT
 
   min_ansible_version: 1.6
 
