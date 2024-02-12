@@ -1,7 +1,7 @@
 galaxy_info:
   author: Mehdi Si Yakoub
   description: install apache and php with a test web app
-  company:
+  company: ""
 
    license: MIT
 
